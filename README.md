@@ -1,6 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 SEO Example
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a basic example of using `useServerSeoMeta` in Nuxt 3 for proper SEO management. Be sure to read the article here.
+
+![prev-image](https://cdn-images-1.medium.com/max/1600/1*iJV-WpM3aDjAZrY6gjOxIA@2x.jpeg)
 
 ## Setup
 
@@ -19,7 +21,7 @@ pnpm install
 
 ## Development Server
 
-Start the development server on http://localhost:3000
+Start the development server on <http://localhost:3000>
 
 ```bash
 npm run dev
