@@ -1,6 +1,6 @@
 # Nuxt 3 SEO Example
 
-This is a basic example of using `useServerSeoMeta` in Nuxt 3 for proper SEO management. Be sure to read the article here.
+This is a basic example of using `useServerSeoMeta` in Nuxt 3 for proper SEO management. Be sure to read the article ![here](https://devjavu.space/post/a-practical-guide-to-seo-in-nuxt-3/).
 
 ![prev-image](https://cdn-images-1.medium.com/max/1600/1*iJV-WpM3aDjAZrY6gjOxIA@2x.jpeg)
 
